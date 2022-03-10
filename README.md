@@ -1,2 +1,2 @@
 # alx-low_level_programming
-C programming
+this repo contains my introduction to C programming
