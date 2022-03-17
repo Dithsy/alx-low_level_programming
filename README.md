@@ -1,2 +1,3 @@
 # alx-low_level_programming
-this repo contains my introduction to C programming
+This repo contains the projects I`ve covered so far in Alx-low_level_programming.
+it contains projects done in C 'Hello World!', conditionals, functions, modules and operators
