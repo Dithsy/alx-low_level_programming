@@ -1,0 +1,137 @@
+
+	
+            <center>
+                <div align="center">
+                    <span id="lblHead" style="font-family:Verdana;font-size:11pt;font-weight:bold;text-decoration:underline;">Listed Doctors Seen For the Month of - March 2022</span>
+                    <br>
+                    <span id="LblForceName" style="font-family:Verdana;font-size:9pt;font-weight:bold;">Field Force Name : EDDITH AKINYI AGOROH</span>
+                </div>
+            </center>
+            <br>
+            <left>
+            <div>
+		
+                <table width="95%"> 
+                    <caption>
+                        <div>
+			<table cellspacing="0" align="Center" rules="all" border="1" id="GrdDoctor" style="border-width:1px;border-style:solid;width:90%;border-collapse:collapse;">
+				<tbody><tr align="center" valign="middle" style="background-color:Pink;font-weight:bold;">
+					<th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$S.No')">S.No</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$LISTED DR NAME')">LISTED DR NAME</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$TERRITORY')">TERRITORY</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$CATEGORY')">CATEGORY</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$SPECIALTY')">SPECIALTY</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$CLASS')">CLASS</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$QUALIFICATION')">QUALIFICATION</a></th><th scope="col"><a href="javascript:__doPostBack('GrdDoctor','Sort$VISITED DATE')">VISITED DATE</a></th>
+				</tr><tr align="left">
+					<td>1</td><td>MOHAMMUD FARAH</td><td>NAIROBI</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>21</td>
+				</tr><tr class="alt" align="left">
+					<td>2</td><td>MWITA RIRO</td><td>KIAMBU</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>3</td>
+				</tr><tr align="left">
+					<td>3</td><td>KAMAU BORO</td><td>NAIROBI</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>18,4</td>
+				</tr><tr class="alt" align="left">
+					<td>4</td><td>FARAJ AMIR</td><td>GARISSA</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>10</td>
+				</tr><tr align="left">
+					<td>5</td><td>XARAN ABDILE</td><td>GARISSA</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>11</td>
+				</tr><tr class="alt" align="left">
+					<td>6</td><td>ARSHED MAHMUD</td><td>NAIROBI</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>1,15</td>
+				</tr><tr align="left">
+					<td>7</td><td>HAMZA SHEIKH</td><td>GARISSA</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>10</td>
+				</tr><tr class="alt" align="left">
+					<td>8</td><td>IDRIS ATHMAN</td><td>GARISSA</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>10</td>
+				</tr><tr align="left">
+					<td>9</td><td>ABDI KHADIR</td><td>NAIROBI</td><td>A</td><td>GPHY</td><td>NIL</td><td>MD</td><td>14</td>
+				</tr><tr class="alt" align="left">
+					<td>10</td><td>ABDULLAHI BURALLE</td><td>GARISSA</td><td>A</td><td>GPHY</td><td>NIL</td><td>M.B.B.S</td><td>11</td>
+				</tr><tr align="left">
+					<td>11</td><td>JOSEPH NYAGA</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>17</td>
+				</tr><tr class="alt" align="left">
+					<td>12</td><td>GORDON AMBAYO</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>16,2</td>
+				</tr><tr align="left">
+					<td>13</td><td>PAUL GAKINYA</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>16,2</td>
+				</tr><tr class="alt" align="left">
+					<td>14</td><td>MUTUA JULIUS</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>14</td>
+				</tr><tr align="left">
+					<td>15</td><td>RUKIYA AMIN</td><td>GARISSA</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>10</td>
+				</tr><tr class="alt" align="left">
+					<td>16</td><td>SIDIQI PEREZ AHMED</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>18,4</td>
+				</tr><tr align="left">
+					<td>17</td><td>SAIF ALAM</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>18,4</td>
+				</tr><tr class="alt" align="left">
+					<td>18</td><td>MOHAMMED SALAAM</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>21</td>
+				</tr><tr align="left">
+					<td>19</td><td>ABDI SHUEB</td><td>NAIROBI</td><td>A</td><td>General Practioner</td><td>NIL</td><td>&nbsp;</td><td>16</td>
+				</tr><tr class="alt" align="left">
+					<td>20</td><td>ABDI SADIK</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>17</td>
+				</tr><tr align="left">
+					<td>21</td><td>JANE NJENGA</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>16,2</td>
+				</tr><tr class="alt" align="left">
+					<td>22</td><td>GEOFFREY NGARE</td><td>GARISSA</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>11</td>
+				</tr><tr align="left">
+					<td>23</td><td>GEORGE YUYA</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>16,2</td>
+				</tr><tr class="alt" align="left">
+					<td>24</td><td>ERICK MUTISO</td><td>GARISSA</td><td>A</td><td>URO</td><td>NIL</td><td>MS UROLOGY</td><td>11</td>
+				</tr><tr align="left">
+					<td>25</td><td>OMAR MUKTAR</td><td>NAIROBI</td><td>A</td><td>URO</td><td>NIL</td><td>MS UROLOGY</td><td>22,4</td>
+				</tr><tr class="alt" align="left">
+					<td>26</td><td>JOSEPH OLIECH</td><td>NAIROBI</td><td>A</td><td>URO</td><td>NIL</td><td>MS UROLOGY</td><td>15</td>
+				</tr><tr align="left">
+					<td>27</td><td>NATHAN KEIZA</td><td>NAIROBI</td><td>A</td><td>URO</td><td>NIL</td><td>MS UROLOGY</td><td>15</td>
+				</tr><tr class="alt" align="left">
+					<td>28</td><td>LINET JUMA</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>1,22</td>
+				</tr><tr align="left">
+					<td>29</td><td>BENARD LANGO</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>1,22</td>
+				</tr><tr class="alt" align="left">
+					<td>30</td><td>JAMES NDIRANGU</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>1,22</td>
+				</tr><tr align="left">
+					<td>31</td><td>AHMED DIIS MOHAMMED</td><td>GARISSA</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>11</td>
+				</tr><tr class="alt" align="left">
+					<td>32</td><td>AMMON MABWAI</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>16,2</td>
+				</tr><tr align="left">
+					<td>33</td><td>EMMANUEL ALUSIOLA</td><td>GARISSA</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>10</td>
+				</tr><tr class="alt" align="left">
+					<td>34</td><td>ABDI KAY</td><td>GARISSA</td><td>A</td><td>General Practioner</td><td>NIL</td><td>M.B.B.S</td><td>11</td>
+				</tr><tr align="left">
+					<td>35</td><td>KAMAU AHMED</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>17,2</td>
+				</tr><tr class="alt" align="left">
+					<td>36</td><td>ADEN BASHIR</td><td>GARISSA</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>11</td>
+				</tr><tr align="left">
+					<td>37</td><td>LUCAS MUIRURI</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>16,2</td>
+				</tr><tr class="alt" align="left">
+					<td>38</td><td>SALAT GIRAD</td><td>NAIROBI</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>18</td>
+				</tr><tr align="left">
+					<td>39</td><td>LADO ISMAIL</td><td>GARISSA</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>10</td>
+				</tr><tr class="alt" align="left">
+					<td>40</td><td>VINCENT OYIENGO</td><td>GARISSA</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>10</td>
+				</tr><tr align="left">
+					<td>41</td><td>GIDEON MUTUA</td><td>NAIROBI</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>15</td>
+				</tr><tr class="alt" align="left">
+					<td>42</td><td>TONNY OPAR</td><td>NAIROBI</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>1,22</td>
+				</tr><tr align="left">
+					<td>43</td><td>LAUREEN MULUKA</td><td>NAIROBI</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>16,2</td>
+				</tr><tr class="alt" align="left">
+					<td>44</td><td>MARY MAINA</td><td>KIAMBU</td><td>A</td><td>GYN</td><td>NIL</td><td>MS GYNE</td><td>17</td>
+				</tr><tr align="left">
+					<td>45</td><td>ELDAH MIHESO</td><td>NAIROBI</td><td>A</td><td>Medical Officer</td><td>NIL</td><td>MDChB</td><td>21</td>
+				</tr><tr class="alt" align="left">
+					<td>46</td><td>ROSEMARY ARTHI</td><td>GARISSA</td><td>A</td><td>DER</td><td>NIL</td><td>MD DERMA</td><td>10</td>
+				</tr><tr align="left">
+					<td>47</td><td>WINNIE NJENGA</td><td>KIAMBU</td><td>A</td><td>DER</td><td>NIL</td><td>MD DERMA</td><td>3</td>
+				</tr><tr class="alt" align="left">
+					<td>48</td><td>JACQULINE MUTUA</td><td>NAIROBI</td><td>A</td><td>DER</td><td>NIL</td><td>MD DERMA</td><td>18,4</td>
+				</tr><tr align="left">
+					<td>49</td><td>DAVID MUTUKU</td><td>NAIROBI</td><td>A</td><td>ENT</td><td>NIL</td><td>MS ENT</td><td>15</td>
+				</tr><tr class="alt" align="left">
+					<td>50</td><td>KEVIN NYAMBAKA</td><td>NAIROBI</td><td>A</td><td>ENT</td><td>NIL</td><td>MS ENT</td><td>3</td>
+				</tr><tr align="left">
+					<td>51</td><td>FUAD FARAH</td><td>GARISSA</td><td>A</td><td>ENT</td><td>NIL</td><td>MS ENT</td><td>10</td>
+				</tr><tr class="alt" align="left">
+					<td>52</td><td>REINHARD MARO</td><td>GARISSA</td><td>A</td><td>ENT</td><td>NIL</td><td>MS ENT</td><td>10</td>
+				</tr><tr align="left">
+					<td>53</td><td>ADEN OSMAN</td><td>GARISSA</td><td>A</td><td>ENT</td><td>NIL</td><td>MS ENT</td><td>11</td>
+				</tr>
+			</tbody></table>
+		</div>
+                    </caption>
+                </table>
+            
+	</div>
+        </left>
+            <br>
+            <br>
+            <br>
+        
